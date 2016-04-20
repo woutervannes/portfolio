@@ -47,6 +47,9 @@
   font-family: 'Noto Sans', sans-serif;
   font-size: 11px;
 }
+#menu-12 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
 #content5-60 .mbr-header .mbr-header__text {
   text-align: left;
   color: #efefef;
@@ -109,6 +112,39 @@
   font-size: 11px;
   color: #ff3200;
 }
+#content5-31 .mbr-header .mbr-header__text {
+  text-align: left;
+  color: #fff;
+  font-size: 16px;
+}
+#content5-31 .mbr-header .mbr-header__subtext {
+  text-align: left;
+  color: #ff3200;
+  font-size: 11px;
+}
+#content5-31 .mbr-article {
+  color: #fff;
+}
+#content5-31 .mbr-article P {
+  font-size: 11px;
+  color: #ff3200;
+}
+#content5-33 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-33 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-33 .mbr-article {
+  color: #fff;
+}
+#content5-33 .mbr-article P {
+  text-align: left;
+  font-size: 11px;
+  color: #ff3200;
+}
 #footer1-17 P {
   font-family: 'Noto Sans', sans-serif;
   color: #efefef;
@@ -134,6 +170,9 @@
 #menu-21 .mbr-navbar__items a {
   font-family: 'Noto Sans', sans-serif;
   font-size: 11px;
+}
+#menu-21 .mbr-navbar__hamburger {
+  color: #ffffff;
 }
 #content5-65 .mbr-header .mbr-header__text {
   text-align: left;
@@ -216,6 +255,9 @@
   font-family: 'Noto Sans', sans-serif;
   font-size: 11px;
 }
+#menu-28 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
 #msg-box4-57 .mbr-header__text {
   color: #ffffff;
 }
@@ -281,6 +323,9 @@
 #menu-44 .mbr-navbar__items a {
   font-family: 'Noto Sans', sans-serif;
   font-size: 11px;
+}
+#menu-44 .mbr-navbar__hamburger {
+  color: #ffffff;
 }
 #content5-50 .mbr-header .mbr-header__text {
   text-align: center;
