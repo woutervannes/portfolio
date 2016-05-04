@@ -372,3 +372,25 @@
   font-size: 11px;
   text-align: left;
 }
+
+#content5-32 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #efefef;
+}
+#content5-32 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-32 .mbr-article {
+  color: #fff;
+}
+#content5-32 .mbr-article P {
+  color: #ff3200;
+  font-size: 11px;
+}
+#footer1-34 P {
+  font-family: 'Noto Sans', sans-serif;
+  color: #efefef;
+  font-size: 11px;
+  text-align: left;
+}
