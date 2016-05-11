@@ -50,6 +50,43 @@
 #menu-12 .mbr-navbar__hamburger {
   color: #ffffff;
 }
+#content5-37 .mbr-header .mbr-header__text {
+  text-align: left;
+  color: #fff;
+  font-size: 16px;
+}
+#content5-37 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-37 .mbr-article {
+  color: #ff3200;
+  font-size: 11px;
+}
+#content5-37 .mbr-article P {
+  font-size: 11px;
+  color: #ff3200;
+}
+#gallery1-34 SMALL {
+  font-size: 11px;
+  color: #ffffff;
+}
+#content5-38 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-38 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-38 .mbr-article {
+  color: #ff3200;
+  font-size: 11px;
+}
+#content5-38 .mbr-article P {
+  font-size: 11px;
+  color: #ff3200;
+}
 #content5-60 .mbr-header .mbr-header__text {
   text-align: left;
   color: #efefef;
